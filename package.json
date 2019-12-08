@@ -1,0 +1,29 @@
+{
+  "name": "gss2csv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousan/gss2csv.git"
+  },
+  "author": "Yousan_O (https://2017.l2tp.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousan/gss2csv/issues"
+  },
+  "homepage": "https://github.com/yousan/gss2csv#readme",
+  "dependencies": {
+    "gss-csv-url": "^1.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.5",
+    "@babel/register": "^7.7.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
